@@ -1,0 +1,8 @@
+﻿  encrpyt.cpp
+C:\Users\c1029879\source\repos\csc8501 coursework\csc8501 coursework\encrpyt.cpp(20,8): warning C4244:  'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\c1029879\source\repos\csc8501 coursework\csc8501 coursework\encrpyt.cpp(34,32): warning C4244:  'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+C:\Users\c1029879\source\repos\csc8501 coursework\csc8501 coursework\encrpyt.cpp(34,32): warning C4244:         with
+C:\Users\c1029879\source\repos\csc8501 coursework\csc8501 coursework\encrpyt.cpp(34,32): warning C4244:         [
+C:\Users\c1029879\source\repos\csc8501 coursework\csc8501 coursework\encrpyt.cpp(34,32): warning C4244:             _Ty=int
+C:\Users\c1029879\source\repos\csc8501 coursework\csc8501 coursework\encrpyt.cpp(34,32): warning C4244:         ]
+  csc8501 coursework.vcxproj -> C:\Users\c1029879\source\repos\csc8501 coursework\Debug\csc8501 coursework.exe
